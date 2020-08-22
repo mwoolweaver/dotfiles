@@ -1,6 +1,6 @@
 [user]
-  name = John Anderson
-  email = sontek@gmail.com
+  name = mwoolweaver
+  email = m.woolweaver@icloud.com
 
 [push]
   default = current
@@ -9,7 +9,7 @@
   template = ~/.gitmessage
 
 [core]
-  editor = emacs
+  editor = nano
 
 [color]
   ui = true
